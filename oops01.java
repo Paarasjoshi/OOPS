@@ -8,6 +8,7 @@ public class oops01 {
         Student paras = new Student();
         paras.name = "Paras";
         paras.rollno = 1;
+        paras.rollno = 1;
         Student Rahul = new Student();
 // dot operator ( . ) = it is used to link reference variable to the instance variable
 //reference variable = name of the object eg: paras ; Rahuk
